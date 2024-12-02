@@ -1,0 +1,17 @@
+    1  pwd
+    2  git clone [200~https://github.com/Ruibraga8/LI2024-Teste04.git~
+    3  [200~https://github.com/Ruibraga8/LI2024-Teste04.git~
+    4  https://github.com/Ruibraga8/LI2024-Teste04.git
+    5  git clone https://github.com/Ruibraga8/LI2024-Teste04.git
+    6  cd LI2024-Teste04
+    7  ls
+    8  pwd
+    9  mkdir js css
+   10  cd js
+   11  echo //ficheiro de script > script.js
+   12  echo /* Ficheiro de estilo */ > ../css/style.css
+   13  cat ../css/style.css
+   14  cd ..
+   15  pwd
+   16  ls
+   17  history > cmdsTarefa2.txt
